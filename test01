@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+ <html>
+ 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    		<title>Nature's Beauty care</title>
+     <style>
+        * {
+  	box-sizing: border-box;
+	}
+	.column {
+  	float: left;
+ 	width: 33.33333%;
+ 	padding: 10px;
+	height: 300px;
+	}
+
+	.row:after {
+	 content: "";
+ 	 display: table;
+ 	 clear: both;
+	}
+
+	body {background-color: LemonChiffon;}
+	* { margin: 0;
+            padding: 0;}
+ 
+        .navbar {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: sticky;
+            top: 0;
+            cursor: pointer;
+        }
+ 
+        .background {
+            background: LightSkyBlue ;
+            background-blend-mode: darken;
+            background-size: cover;
+        }
+ 
+        .nav-list {
+            width: 100%;
+            display: flex;
+            align-items: center;
+        }
+ 
+        .logo {
+            display: Nature beauty care;
+            justify-content: center;
+            align-items: center;
+        }
+ 
+        .logo img {
+            width: 180px;
+            border-radius: 50px;
+        }
+ 
+        .nav-list li {
+            list-style: none;
+            padding: 50px 30px;
+        }
+ 
+        .nav-list li a {
+            text-decoration: none;
+            color: white;
+        }
+ 
+        .text-footer {    
+	    text-align: center;
+            padding: 30px 0;
+            font-family: 'Ubuntu', sans-serif;
+            display: flex;
+            justify-content: center;
+            color: white;
+        }
+	
+
+    </style>
+</head>
+ 
+<body>
+    <nav class="navbar background">
+        <ul class="nav-list">
+            <div class="logo">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhRNHu2DqsjH7qWn3h-GaZpa2Q-AGoU3XOQ&usqp=CAU"
+     		style="width:100px;height:100px;">
+            </div>
+            <li><a href="SKIN CARE.html">SKIN CARE</a></li>
+            <li><a href="Body care.html">BATH & BODY</a></li>
+	    <li><a href="HAIR CARE.html">HAIR CARE</a></li>
+	    <li><a href="FRAGRANCE.html">FRAGRANCE</a></li>
+            <li><a href="BABYCARE.html">BABY CARE</a></li>
+	    <li><a href="OTHER.html">OTHER</a></li>
+        </ul>
+ 
+    </nav>
+ 
+	<p>
+
+		<div class="row">
+  <div class="column" style="background-color:GreenYellow;">
+    <h2>Latest Cosmatics Product and Baby Care and other products</h2>
+    <img src="https://www.nbc.lk/assets/images/sharing-img2.jpg"width="400" height="200">
+  </div>
+  <div class="column" style="background-color:white;">
+    <h2>Special offers and so much more in this christmas and New year season</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKhzQeUc421eBfSdUE8WvXCl12LYO1vLWPcZR42D5sfpRYiDnRrQtjh2L4SNjZxyFbOA&usqp=CAU"width="300" height="200">
+  </div>
+  <div class="column" style="background-color:GreenYellow;">
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFftkebCqqtEfOnvJWiOZ0M-No9zJI0DNpUQ&usqp=CAU="width="438" height="200" >
+  </div>
+		</div>
+
+
+	</p>
+	<br>
+	<h1>Islandwide Delivery Free</h1>
+	<br>
+	<p align=justify>
+	 The delivery duration may require additional days. In the event an order requires additional days to deliver, we will inform you over the phone regarding the delay and also drop you a email at the earliest point on knowledge of such a delay.	
+	</p>
+	<br>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2c818a18726307.562ce40e9a668.jpg" width="500px" height="500px" style="padding-right: 25px;">
+<img src="https://scontent.fcmb11-1.fna.fbcdn.net/v/t1.6435-9/107601892_3113152508769303_5714282514591726701_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=gpwAOQm_FZIAX9e3n0t&_nc_ht=scontent.fcmb11-1.fna&oh=00_AT8U9F5LdTJeT64OcxlIO9QS1sJwIXJERU-DGJKC5b7RgQ&oe=621895DD" width="500px" height="500px" style="padding-right: 25px;">
+<img src="https://static-01.daraz.lk/p/d58f24c2a0b35ab8a9d93a7392724b3c.jpg" width="800px" height="500px" style="padding-right: 25px;">
+
+	<footer class="background">
+ <h1>About Us </h1>
+  <p>we are a company that sells very advanced Costemic produts .</p>
+  <p>we are a government approved company and we are committed to providing you with the highest quality service.</p>
+ <p>contact our customer service representatives anytime you need.</p>
+<p style="color:red;">Hot line - 0763267612 / mail -tharindukd456@gmail.com .</P><br>
+</div>
+
+      <p class="text-footer">Copyright ©-All rights are reserved
+        </p>
+    </footer>
+</body>
+ 
+</html>
